@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/RoboFriends/static/css/main.0c54e4ef.css",
+    "main.js": "/RoboFriends/static/js/main.a85ab3f6.js",
+    "static/js/787.32032a02.chunk.js": "/RoboFriends/static/js/787.32032a02.chunk.js",
+    "static/media/EpsonMxSeriesDmp-ZVRG8.woff": "/RoboFriends/static/media/EpsonMxSeriesDmp-ZVRG8.ed5e1de685a7f0e56b12.woff",
+    "static/media/Lazer Game Zone.woff": "/RoboFriends/static/media/Lazer Game Zone.e7c2f72980dd0d1ef186.woff",
+    "index.html": "/RoboFriends/index.html",
+    "main.0c54e4ef.css.map": "/RoboFriends/static/css/main.0c54e4ef.css.map",
+    "main.a85ab3f6.js.map": "/RoboFriends/static/js/main.a85ab3f6.js.map",
+    "787.32032a02.chunk.js.map": "/RoboFriends/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c54e4ef.css",
+    "static/js/main.a85ab3f6.js"
+  ]
+}
